@@ -25,7 +25,7 @@
 
 # ✅ Getting Started
 
-1. Clone the Task-Manager [GitHub repository](https://github.com/TihomirDenev/TrafficWatch) locally:
+1. Clone the TrafficWatch [GitHub repository](https://github.com/TihomirDenev/TrafficWatch) locally:
 
 ```bash
 https://github.com/TihomirDenev/TrafficWatch.git

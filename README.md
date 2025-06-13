@@ -6,8 +6,8 @@
   <img src="public/globe.png" alt="Traffic Watch" style="height: 160px;" />
 </div>
 
-
 # 📝 Description
+
 - Traffic Watch is an interactive web application designed to monitor and display server status, visualize traffic data over the last seven days through dynamic diagrams, and manage support tickets with functionality to submit new tickets and mark them as completed, with plans to implement login and logout features.
 
 # 🗃️ Technologies Used
@@ -65,4 +65,4 @@ npm run start
 # 📇 License
 
 - This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-`
+  `
